@@ -1,0 +1,24 @@
+[1;31m
+Start test 1[0m
+> XXXOO__O_
+---------
+| X X X |
+| O O _ |
+| _ O _ |
+---------
+firstIfTrue j = 0, i = 0
+firstIfTrue j = 1, i = 0
+X wins 
+[1;31m
+Start test 2[0m
+> XOXOXOXXO
+---------
+| X O X |
+| O X O |
+| X X O |
+---------
+firstIfFalse j = 0, i = 0
+firstIfFalse j = 0, i = 1
+firstIfTrue j = 0, i = 2
+firstIfFalse j = 1, i = 2
+blablabla
